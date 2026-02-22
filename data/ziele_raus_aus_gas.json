@@ -1,0 +1,47 @@
+{
+  "strategie": "Raus aus Gas – Wiener Wärme und Kälte 2040",
+  "zieljahr": 2040,
+  "ziele": [
+    {
+      "kennzahl": "Haushalte auf erneuerbare Wärme umgestellt",
+      "aktuell": 460000,
+      "ziel_2040": 600000,
+      "einheit": "Haushalte"
+    },
+    {
+      "kennzahl": "Fernwärmeanteil am Wärmebedarf",
+      "aktuell": 45.6,
+      "ziel_2040": 56,
+      "einheit": "%"
+    },
+    {
+      "kennzahl": "Kochgasgeräte ausgetauscht",
+      "aktuell": 0,
+      "ziel_2040": 260000,
+      "einheit": "Geräte"
+    },
+    {
+      "kennzahl": "Neue Fernwärmeleitungen",
+      "aktuell": 0,
+      "ziel_2040": 420,
+      "einheit": "km"
+    },
+    {
+      "kennzahl": "Gebietsumformer-Stationen neu",
+      "aktuell": 0,
+      "ziel_2040": 50,
+      "einheit": "Anlagen"
+    },
+    {
+      "kennzahl": "Haushalte/Jahr Anschluss (2030er)",
+      "aktuell": 10000,
+      "ziel_2040": 30000,
+      "einheit": "pro Jahr"
+    }
+  ],
+  "quellen": [
+    "Stadt Wien – Programm Raus aus Gas",
+    "Wiener Wärmeplan 2040",
+    "Wien Energie"
+  ]
+}
